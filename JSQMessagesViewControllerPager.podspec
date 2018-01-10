@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-	s.name = 'JSQMessagesViewController-Pager'
+	s.name = 'JSQMessagesViewControllerPager'
 	s.version = '7.3.6'
 	s.summary = 'An elegant messages UI library for iOS.'
 	s.homepage = 'http://jessesquires.github.io/JSQMessagesViewController'
